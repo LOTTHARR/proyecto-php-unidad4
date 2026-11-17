@@ -6,7 +6,6 @@
 - **Unidad:** Unidad 4 – Programación del lado del servidor con PHP
 - **Integrantes del Equipo:**
   - Carlos Eduardo González Pérez
-  - Gabriel Alejandro Cruz Guillén
   - Andrea Guadalupe Armengol Aguilar
   - Jorge Enrique Gutiérrez Avendaño
 
